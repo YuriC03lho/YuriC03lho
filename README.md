@@ -1,4 +1,4 @@
-![WaveSmileGIF (2)](https://github.com/user-attachments/assets/ddd2e0d2-e265-4127-bd45-8dab5bc8abb1)## Eu sou Yuri Coelho ✨
+## Eu sou Yuri Coelho ✨
 
 ### Desenvolvedor Apaixonador por criar e inovar.
 ##### Desenvolvo Sites  a Games, apaixonado por Desenvolver projetos de variados tipos e contribuir para Comunidade.
