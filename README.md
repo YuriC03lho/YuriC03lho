@@ -16,7 +16,7 @@
 - Trabalho em Equipe
 - Pensamento Crítico 
 - Auto Didata
-- Gente Boa 
+- Aprendizado Rapido
 
 ![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 ![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
@@ -25,3 +25,5 @@
 
 #### É só isso mesmo... Tchau!
 ![Blog](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
+### Más em! Veja meus trabalhos abaixo também. 
+![PointDownGIF](https://github.com/user-attachments/assets/9faf20ba-084e-491c-acc3-370c5d5167bb)
