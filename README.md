@@ -1,4 +1,4 @@
-## Eu sou Yuri Coelho ✨
+![WaveSmileGIF (2)](https://github.com/user-attachments/assets/ddd2e0d2-e265-4127-bd45-8dab5bc8abb1)## Eu sou Yuri Coelho ✨
 
 ### Desenvolvedor Apaixonador por criar e inovar.
 ##### Desenvolvo Sites  a Games, apaixonado por Desenvolver projetos de variados tipos e contribuir para Comunidade.
@@ -26,5 +26,4 @@
 #### É só isso mesmo... Tchau!
 ![Blog](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
 ### Esperaaaaa!.. Más em! Veja meus trabalhos abaixo também. 
-![PointDownGIF](https://github.com/user-attachme![WaveSmileGIF](https://github.com/user-attachments/assets/78c60a88-2e48-4fb8-ada2-22267afafe23)
-nts/assets/9faf20ba-084e-491c-acc3-370c5d5167bb)
+![WaveSmileGIF](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
