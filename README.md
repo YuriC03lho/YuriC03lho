@@ -21,9 +21,5 @@
 ![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 ![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
-
-
-#### É só isso mesmo... Tchau!
-![Blog](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
-### Esperaaaaa!.. Más em! Veja meus trabalhos abaixo também. 
+### Veja meus trabalhos abaixo também.. Tchau!!
 ![WaveSmileGIF](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
