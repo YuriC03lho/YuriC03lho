@@ -25,5 +25,6 @@
 
 #### É só isso mesmo... Tchau!
 ![Blog](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
-### Más em! Veja meus trabalhos abaixo também. 
-![PointDownGIF](https://github.com/user-attachments/assets/9faf20ba-084e-491c-acc3-370c5d5167bb)
+### Esperaaaaa!.. Más em! Veja meus trabalhos abaixo também. 
+![PointDownGIF](https://github.com/user-attachme![WaveSmileGIF](https://github.com/user-attachments/assets/78c60a88-2e48-4fb8-ada2-22267afafe23)
+nts/assets/9faf20ba-084e-491c-acc3-370c5d5167bb)
