@@ -18,8 +18,9 @@
 - Auto Didata
 - Aprendizado Rapido
 
-![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ### Veja meus trabalhos abaixo também.. Tchau!!
 ![WaveSmileGIF](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
