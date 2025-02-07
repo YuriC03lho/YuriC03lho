@@ -18,7 +18,7 @@
 - Auto Didata
 - Aprendizado Rapido
 
-#### Work in pogress... 🏗️👷🚧
+#### Work in progress... 🏗️👷🚧
 
 ### Veja meus trabalhos abaixo também.. Tchau!!
 ![WaveSmileGIF](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
